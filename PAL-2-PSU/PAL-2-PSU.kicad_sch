@@ -8844,7 +8844,7 @@
 				)
 			)
 		)
-		(property "Footprint" "T-Pau:SS-25139-NH"
+		(property "Footprint" "T-Pau:SW-2.54-5.08"
 			(at 98.425 133.35 0)
 			(effects
 				(font

@@ -6180,7 +6180,7 @@
 		)
 		(uuid "f26c8114-22f5-46a0-a99c-0f9b2f02cd76")
 	)
-	(global_label "KYBD"
+	(global_label "RxD"
 		(shape input)
 		(at 155.575 29.845 180)
 		(fields_autoplaced yes)
@@ -6192,7 +6192,7 @@
 		)
 		(uuid "011ec24e-649b-4938-9ab7-ac5bca7cbad0")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 147.6912 29.845 0)
+			(at 149.0217 29.845 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6268,7 +6268,7 @@
 			)
 		)
 	)
-	(global_label "KYBD"
+	(global_label "RxD"
 		(shape output)
 		(at 80.645 75.565 0)
 		(fields_autoplaced yes)
@@ -6280,7 +6280,7 @@
 		)
 		(uuid "2541a000-2df7-432d-9cd5-81d991637c6d")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 88.5288 75.565 0)
+			(at 87.1983 75.565 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6356,7 +6356,7 @@
 			)
 		)
 	)
-	(global_label "PTR"
+	(global_label "TxD"
 		(shape output)
 		(at 80.645 73.025 0)
 		(fields_autoplaced yes)
@@ -6368,7 +6368,7 @@
 		)
 		(uuid "6ab8871c-f78a-4c3a-b70f-d0486f008665")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 87.1378 73.025 0)
+			(at 86.8959 73.025 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6848,7 +6848,7 @@
 				)
 			)
 		)
-		(property "Footprint" "T-Pau:SW-2.54-5.08"
+		(property "Footprint" "T-Pau:SS2513"
 			(at 133.35 31.75 0)
 			(effects
 				(font
@@ -7442,7 +7442,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "T-Pau:SW-2.54-5.08"
+		(property "Footprint" "T-Pau:SS2513"
 			(at 83.82 100.965 0)
 			(effects
 				(font
@@ -7898,7 +7898,7 @@
 				)
 			)
 		)
-		(property "Footprint" "T-Pau:SW-2.54-5.08"
+		(property "Footprint" "T-Pau:SS2513"
 			(at 162.56 29.845 0)
 			(effects
 				(font
@@ -8844,7 +8844,7 @@
 				)
 			)
 		)
-		(property "Footprint" "T-Pau:SW-2.54-5.08"
+		(property "Footprint" "T-Pau:SS2513"
 			(at 98.425 133.35 0)
 			(effects
 				(font
